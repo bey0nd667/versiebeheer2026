@@ -1,0 +1,14 @@
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
