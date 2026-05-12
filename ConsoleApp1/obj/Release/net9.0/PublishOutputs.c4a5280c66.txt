@@ -1,0 +1,5 @@
+c:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\bin\Release\net9.0\publish\ConsoleApp1.exe
+c:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\bin\Release\net9.0\publish\ConsoleApp1.dll
+c:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\bin\Release\net9.0\publish\ConsoleApp1.deps.json
+c:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\bin\Release\net9.0\publish\ConsoleApp1.runtimeconfig.json
+c:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\bin\Release\net9.0\publish\ConsoleApp1.pdb
