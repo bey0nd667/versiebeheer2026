@@ -12,3 +12,4 @@ C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\refint
 C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\omarm709\Documents\versiebeheer2026\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
